@@ -170,4 +170,4 @@ MemoryCardGame/
 ---
 
 
-**Made with ❤️ by Yohanes Nevan/naomhán**
+**Made with ❤️ by Yohanes Nevan/Naomhán**
