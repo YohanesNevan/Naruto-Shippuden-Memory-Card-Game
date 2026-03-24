@@ -160,15 +160,12 @@ MemoryCardGame/
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshots/preview1.png)
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/preview2.png)
 
-*### Game Over*
-*![Game Over](screenshots/game-over.png)*
-
-*Note: Tambahkan folder `screenshots/` dan upload gambar di folder tersebut*
+![Gameplay](screenshots/preview3.png)
 
 ---
 
