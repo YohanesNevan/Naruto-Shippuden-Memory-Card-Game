@@ -167,6 +167,13 @@ MemoryCardGame/
 
 ![Gameplay](screenshots/preview3.png)
 
+### Game Over
+![Gameplay](screenshots/preview4.png)
+
+![Gameplay](screenshots/preview5.png)
+
+*Note: Gambar background dihasilkan menggunakan Gemini AI*
+
 ---
 
 
